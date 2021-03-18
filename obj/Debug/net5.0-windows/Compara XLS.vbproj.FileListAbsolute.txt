@@ -1,0 +1,21 @@
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.vbprojAssemblyReference.cache
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara_XLS.FrmMain.resources
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.vbproj.GenerateResource.cache
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.AssemblyInfoInputs.cache
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.AssemblyInfo.vb
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.vbproj.CoreCompileInputs.cache
+C:\Users\pinho\Google Drive\Dev\Compara XLS\bin\Debug\net5.0-windows\Compara XLS.exe
+C:\Users\pinho\Google Drive\Dev\Compara XLS\bin\Debug\net5.0-windows\Compara XLS.deps.json
+C:\Users\pinho\Google Drive\Dev\Compara XLS\bin\Debug\net5.0-windows\Compara XLS.runtimeconfig.json
+C:\Users\pinho\Google Drive\Dev\Compara XLS\bin\Debug\net5.0-windows\Compara XLS.runtimeconfig.dev.json
+C:\Users\pinho\Google Drive\Dev\Compara XLS\bin\Debug\net5.0-windows\Compara XLS.dll
+C:\Users\pinho\Google Drive\Dev\Compara XLS\bin\Debug\net5.0-windows\ref\Compara XLS.dll
+C:\Users\pinho\Google Drive\Dev\Compara XLS\bin\Debug\net5.0-windows\Compara XLS.pdb
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.dll
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\ref\Compara XLS.dll
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.pdb
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara XLS.genruntimeconfig.cache
+C:\Users\pinho\Google Drive\Dev\Compara XLS\bin\Debug\net5.0-windows\pt-BR\Compara XLS.resources.dll
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\Compara_XLS.FrmMain.pt-BR.resources
+C:\Users\pinho\Google Drive\Dev\Compara XLS\obj\Debug\net5.0-windows\pt-BR\Compara XLS.resources.dll
